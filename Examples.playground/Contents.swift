@@ -50,7 +50,7 @@ hasPairWithSum2(arr: arr1, sum: 8)
 //----------------------------------------
 
 //if the array is sorted:
-//Time Complexity O(nlogn)
+//Time Complexity O(n)
 //Space Complexity O(1)
 
 func hasPairWithSum3(arr: [Int], sum: Int) -> Bool {
